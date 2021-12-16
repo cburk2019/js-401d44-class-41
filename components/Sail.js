@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     color: '#2A3C51',
   },
   logo: {
-    height: 64,
-    width: 64,
+    height: 300,
+    width: 300,
   }
 });
